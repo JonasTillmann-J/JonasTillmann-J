@@ -1,8 +1,7 @@
 -  Olá, sou @JonasTillmann-J
-- Sou interresado em muitas coisa mas particurlarmente gosto de programar frontengine e bastante backengine
-- Atualmente aprendendo Java, JavaScript e SQL já partisipei de projetos com arduino e aprendi um pouco de C no processo
-- Namorado de sorte e acompalhado de amigos com grandes mentes como devs
-- Para falar comigo poder ser Pelo GitHUB mesmo
+- Sou interresado em muitas coisa no mundo da programação mas particurlarmente gosto de programar front-end como passa tempo
+- e prentendo me especializr no back-end
+- Atualmente aprendendo Java, JavaScript e SQL já participei de projetos com arduino e aprendi um pouco de C no processo
 
 <!---
 JonasTillmann-J/JonasTillmann-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
