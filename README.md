@@ -10,12 +10,16 @@ Infraestrutura: Redes computacionais e projetos IoT com Arduino (como um drone f
 
 Back-End (Entra21)
 Inteligência Artificial Generativa (Google Gemini) pela Alura
+
 Experiência
 💻 Trabalhei em projetos acadêmicos e pessoais, incluindo:
 
 Desenvolvimento de sites completos, com foco em design responsivo e funcionalidade.
 Coordenação e codificação no TCC Callisto, um sistema inovador de aprendizado personalizado baseado em IA, desenvolvido em equipe (4 pessoas).
 Habilidades Principais
+
 ✔ Resolução de problemas complexos.
+
 ✔ Desenvolvimento ágil e colaborativo.
+
 ✔ Implementação de tecnologias modernas no desenvolvimento de sistemas.
