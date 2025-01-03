@@ -15,7 +15,7 @@ Experiência
 💻 Trabalhei em projetos acadêmicos e pessoais, incluindo:
 
 Desenvolvimento de sites completos, com foco em design responsivo e funcionalidade.
-Coordenação e codificação no TCC Callisto, um sistema inovador de aprendizado personalizado baseado em IA, desenvolvido em equipe (4 pessoas).
+Coordenação e codificação no Projeto Interdisciplinar "Callisto", um sistema inovador de aprendizado personalizado baseado em IA, desenvolvido em equipe (4 pessoas).
 Habilidades Principais
 
 ✔ Resolução de problemas complexos.
