@@ -1,15 +1,16 @@
-Opa, eu sou o Jonas!
---
-Estudo <b>Analise e Desenvolvimento de Sistemas</b> na Unisociesc. Estou nesse mundo da programação à mais de 5 anos, sempre explorando novas tecnologias, aprendendo com os erros e buscando evoluir a cada projeto. Vamos ver onde isso vai dar... 😉
+## Hey there, I'm Jonas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonas-tillmann-junior-873416333)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_tillmann.j?igsh=M2xhMTE4MHc0eGhk])
+I'm currently studying **Systems Analysis and Development** at Unisociesc.  
+I've been in the programming world for over 5 years, always exploring new technologies, learning from my mistakes, and aiming to grow with every project.  
+Let’s see where this journey takes me... 😉
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tillmann-junior-873416333)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tillmann.j?igsh=M2xhMTE4MHc0eGhk)
 
 ---
 
-<b>Tecnologias que já Usei e Estudo:<b>
---
-<div style=""display: inline_block"><br/>
+### Technologies I've Used and Study:
+<div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,8 +22,7 @@ Estudo <b>Analise e Desenvolvimento de Sistemas</b> na Unisociesc. Estou nesse m
 
 ---
 
-<b>Frameworks que tambem Uso e Estudo:<b>
---
+### Frameworks I Also Use and Study:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -32,15 +32,15 @@ Estudo <b>Analise e Desenvolvimento de Sistemas</b> na Unisociesc. Estou nesse m
 
 ---
 
-<b>Sobre mim</b><br/>
---
-Técnico em Desenvolvimento de Sistemas pelo CEDUP Hermann Hering.<br>
-Estudando <b>Analise e Desenvolvimento de Sistemas</b> na Unisociesc.<br>
-Curso Profisionalizante em Backend com C# pelo Entra21<br>
-Confiavel, Resiliente, Justo e auto de data<br>
-Lider Nato<br>
-Buscando emprego na área e oportunidades para aprender mais.<br>
+### About Me  
+- Technical degree in Systems Development from CEDUP Hermann Hering  
+- Currently studying **Systems Analysis and Development** at Unisociesc  
+- Professional Backend course with C# at Entra21  
+- Reliable, resilient, fair, and self-taught  
+- Natural leader  
+- Seeking opportunities in the field and eager to keep learning  
 
 ---
 
-"Persistir, mesmo devagar, ainda é melhor do que parar." — alguém que também estava perdido, provavelmente.
+> “Keep going — even slowly — it's still better than standing still.”  
+> — probably someone who was also a little lost
