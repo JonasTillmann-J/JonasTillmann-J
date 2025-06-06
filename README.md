@@ -43,4 +43,4 @@ Buscando emprego na área e oportunidades para aprender mais.<br>
 
 ---
 
-"Persistir, mesmo devagar, ainda é melhor do que parar." — alguém que também tava perdido, provavelmente.
+"Persistir, mesmo devagar, ainda é melhor do que parar." — alguém que também estava perdido, provavelmente.
